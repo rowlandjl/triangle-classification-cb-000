@@ -1,7 +1,7 @@
 class Triangle 
   attr_accessor :length_1, :length_2, :length_3
   
-  def initialize(L1, L2, L3)
+  def initialize(l1, l2, l3)
     @length_1 = L1 
     @length_2 = L2 
     @length_3 = L3 
